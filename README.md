@@ -98,13 +98,12 @@ next-generation prototype </span> </span></p></li>
 <li><table>
 <tbody>
 <tr>
-<td style="text-align: left;"><strong>Florida State
-University</strong></td>
+<td style="text-align: left;"><strong>Placeholder</strong></td>
 <td style="text-align: right;">Feb. 2019 – Aug. 2021</td>
 </tr>
 <tr>
 <td style="text-align: left;"><em>Lab Assistant</em></td>
-<td style="text-align: right;"><em>Tallahassee, FL</em></td>
+<td style="text-align: right;"><em>hmmmm, FL</em></td>
 </tr>
 </tbody>
 </table>
