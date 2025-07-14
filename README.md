@@ -55,18 +55,15 @@ Engineer</em></td>
 </tbody>
 </table>
 <ul>
-<li><p><span> <span>Responsible for manufacturing and nationwide service
+<li><p><span> <span>Responsible for nationwide service
 of biotechnical instruments under strict quality control </span>
 </span></p></li>
 <li><p><span> <span>Authored service manual for BioFlux shear flow
 system for distributors </span> </span></p></li>
 <li><p><span> <span>Developed and oversaw testing regime for UL
 certification of BioFlux system </span> </span></p></li>
-<li><p><span> <span>Designed, modeled, and validated design change of
-key CellRaft AIR component that reduced manufacturing time from 48 to 3
-hours while addressing critical failure mode </span> </span></p></li>
-<li><p><span> <span>Modeled and designed new parts for prototype device
-using CAD </span> </span></p></li>
+<li><p><span> <span>------</span> </span></p></li>
+<li><p><span> <span>-------------------</span> </span></p></li>
 </ul></li>
 <li><table>
 <tbody>
