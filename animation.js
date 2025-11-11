@@ -1,16 +1,11 @@
     // animation.js
     const asciiFrames = [
-    'o
-    ,
-    'O
-    ,
-    '0
-    ,
-    'c j
-    ,
-    '_ _
-    ,
-    '   
+    'o',
+    'O',
+    '0',
+    'c j',
+    '_ _',
+    ''
     ];
 
     const container = document.getElementById('ascii-container');
