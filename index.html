@@ -5,17 +5,35 @@
     <style>
         body { 
             font-family: 'Courier New', monospace; 
-            font-size: 12px; 
+            font-size: 10px;
             background-color: #000; 
-            color: #0f0; 
+            color: #0f0;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; 
         }
+        
+        
+        .center-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            width: 100vw;
+        }
+        
         #ascii-container { 
-            white-space: pre; 
+            white-space: pre;
+            line-height: 1.2;
+            
+            padding: 20px;
         }
     </style>
 </head>
 <body>
-    <div id="ascii-container"></div>
+    <div class="center-wrapper">
+        <div id="ascii-container"></div>
+    </div>
     <script src="animation.js"></script>
 </body>
 </html>
