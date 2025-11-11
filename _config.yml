@@ -1,3 +1,7 @@
-
 title: kyser.us
-theme: null # We're using custom HTML, no theme needed
+description: kyser.us
+baseurl: "/index.html"
+url: "kyser.us"
+
+
+theme: null
